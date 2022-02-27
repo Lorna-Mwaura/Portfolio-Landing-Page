@@ -4,11 +4,14 @@
     box-sizing: content-box;
 
 }
+
 img {
     height: 200px;
     width: 200px;
-   }
+}
+
 body {
     background-color: aliceblue;
+     align-items: center;
+    justify-content: center;
 }
-@media screen and (max-width:600px)
