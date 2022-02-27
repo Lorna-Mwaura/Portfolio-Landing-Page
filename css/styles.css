@@ -1,11 +1,10 @@
-.text-box {
-    margin: 0;
+# {
     padding: 0;
-    border: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
-.text-box {
-    margin: 20px;
-    border:2px blue;
-    padding: 6px;
 
-    
+img {
+    height: 400px;
+    width: 400px;
+}
