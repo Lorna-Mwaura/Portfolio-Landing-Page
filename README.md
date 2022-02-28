@@ -9,6 +9,7 @@ This is a simple website about me where I have briefly described myself, my hobb
 ## Setup/Installation Requirements
 * Make sure you have access to a browser
 * Click on the live link in the About section
+or click on this live link  https://lorna-mwaura.github.io/Portfolio-Landing-Page/
 
 ## Technologies Used
 Languages used are HTML and Css.
